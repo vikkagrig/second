@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock>Text</TextBlock>
-        <Button Width="50" Height="50">Click</Button>
+        <Button Width="50" Height="50" Click="Button_Click">Click</Button>
     </Grid>
 </Window>
